@@ -7,3 +7,63 @@
     margin : 0 auto;
     width : 1200px;
 }
+/* HEADER AREA */
+header {
+    width : 100%;
+    height : 100px;
+    background-color : blue;
+}
+
+/* LOGO AREA */
+#logo {
+    float : left;
+    width : 250px;
+    height:100px;
+    background-color : indigo;
+}
+
+/* NAV AREA */
+nav {
+    float : right;
+    width : 900px;
+    height: 100px;
+    background-color : green;
+}
+
+/* Image Slide Show AREA */
+#slideShow{
+    clear : both;
+    width : 100px;
+    height:300px;
+    background-color:orange;
+    overflow:hidden;
+}
+
+/* Contents Area */
+#contents {
+    width:100%;
+    height:300px;
+}
+
+/* Tab Menu Area */
+#tabMenu{
+    float :left;
+    width:600px;
+    height:100%;
+    background-color:violet;
+}
+
+/* Quick Link Area */
+#links {
+    float : right;
+    width:600px;
+    height : 100px;
+    background-color: skyblue;
+}
+
+/* Footer Area */
+footer{
+    width:100%;
+    height:100px;
+    background-color:gray;
+}
