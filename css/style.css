@@ -33,7 +33,7 @@ nav {
 /* Image Slide Show AREA */
 #slideShow{
     clear : both;
-    width : 100px;
+    width : 100%;
     height:300px;
     background-color:orange;
     overflow:hidden;
@@ -57,7 +57,7 @@ nav {
 #links {
     float : right;
     width:600px;
-    height : 100px;
+    height : 100%;
     background-color: skyblue;
 }
 
